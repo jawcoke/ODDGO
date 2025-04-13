@@ -1,1 +1,1 @@
-# ODDGO
+# smart-trip-optimizer
